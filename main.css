@@ -26,4 +26,5 @@ button {
     padding: 35px 32px;
     font-size: 20px;
     color: lightskyblue;
+    cursor: pointer;
 }
